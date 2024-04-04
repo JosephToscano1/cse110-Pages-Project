@@ -1,5 +1,6 @@
 # About Joseph Toscano
 > "Vision without action is a daydream. Action without vision is a nightmare" - Japanese Proverb
+
 ## Libraries:
 * C++
 * Java
