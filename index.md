@@ -21,5 +21,8 @@
 
 [Return to Top](#about-joseph-toscano)
 
+![image](https://github.com/JosephToscano1/cse110-Pages-Project/assets/97120058/c36ecd70-92e8-4f82-9d9f-21023a14ae30)
+
+
 
 
